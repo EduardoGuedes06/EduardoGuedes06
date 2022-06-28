@@ -13,12 +13,12 @@
   <img align="center" alt="Arduino" height="35" width="35" src="https://img.icons8.com/color/344/arduino.png">
   <img align="center" alt="Filmora" height="50" width="50" src="https://img.icons8.com/fluency/344/filmora.png">  
 </div><br>
+___________________________________________________________________________________________________________________________________________
 
 
 
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoGuedes06&show_icons=true&theme=radical)
 ___________________________________________________________________________________________________________________________________________
 
 <div align="center">
