@@ -7,7 +7,7 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="python" height="35" width="110"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="C" height="35" width="70" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
+  <img align="center" alt="C" height="35" width="60" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
   <img align="center" alt="Django" height="35" width="110" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
