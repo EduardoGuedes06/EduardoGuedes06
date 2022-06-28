@@ -9,8 +9,9 @@
   <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/color/344/python--v1.png">
   <img align="center" alt="C" height="35" width="35" src="https://raw.githubusercontent.com/Guyutongxue/devcpp7/master/src/assets/icons/favicon.png"
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/django.png">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  <img align="center" alt="Win" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
+  <img align="center" alt="Win" height="35" width="35" src="https://img.icons8.com/color/344/windows-logo.png">
+  <img align="center" alt="Filmora" height="35" width="35" src="https://img.icons8.com/fluency/344/filmora.png">
 </div><br>
 
 <div align="center">
