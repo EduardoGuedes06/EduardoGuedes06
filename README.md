@@ -14,7 +14,12 @@
   <img align="center" alt="Filmora" height="50" width="50" src="https://img.icons8.com/fluency/344/filmora.png">  
 </div><br>
 ___________________________________________________________________________________________________________________________________________
-
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 
 
