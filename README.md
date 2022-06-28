@@ -15,7 +15,7 @@
 </div><br>
 
 
-<div> align="center"
+<div align="center"
 <h1 align="center">-------------------------------------- Plataforma ----------------------------------------</a> </h1> <br><br>
 <img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/color/344/windows-logo.png">    
 <img align="center" alt="Nvidia" height="50" width="50" src="https://img.icons8.com/color/344/nvidia.png"
