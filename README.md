@@ -15,8 +15,8 @@
 
 
 <div align="center"
-     
-<img align="center" alt="Filmora" height="35" width="35" src="https://img.icons8.com/fluency/344/filmora.png">   
+<h1 align="center">--------------------------------------------------------------------------------------</a> 😃️</h1>
+<img align="center" alt="win" height="35" width="35" src="https://img.icons8.com/color/344/windows-logo.png">   
 <img align="center" alt="Filmora" height="35" width="35" src="https://img.icons8.com/fluency/344/filmora.png">    
      
 </div><br>
