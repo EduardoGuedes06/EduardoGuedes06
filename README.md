@@ -20,7 +20,7 @@
 <img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/color/344/windows-logo.png">    
 <img align="center" alt="Nvidia" height="50" width="50" src="https://img.icons8.com/color/344/nvidia.png"
 <img align="center" alt="Intel" height="50" width="50" src="https://img.icons8.com/fluency/344/intel-power-gadget.png"
-</div><br>
+</div><br><br>
 
 
 <div align="center">
@@ -36,6 +36,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart:.</p>
+  <p>Feito com :heart:</p>
 </p>
 </div>
