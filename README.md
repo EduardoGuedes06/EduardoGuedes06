@@ -25,8 +25,8 @@ ________________________________________________________________________________
 
 <div align="center">
 <img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/color/344/windows-logo.png">    
-<img align="center" alt="Nvidia" height="50" width="50" src="https://img.icons8.com/color/344/nvidia.png"
-<img align="center" alt="intel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_logo_%282006-2020%29.svg"
+<img align="center" alt="Nvidia" height="50" width="50" src="https://img.icons8.com/color/344/nvidia.png">
+<img align="center" alt="intel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_logo_%282006-2020%29.svg">
 <img align="center" alt="Visualg" height="50" width="50" src="https://img.icons8.com/fluency/344/visual-studio.png"> 
 </div><br><br>
 
