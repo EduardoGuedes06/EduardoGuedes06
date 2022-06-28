@@ -6,15 +6,16 @@
 
 
 <div align="center" valign="top"><br>
+  <img align="center" alt="GitBash" height="50" width="50" src="https://img.icons8.com/color/344/git.png">
   <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/color/344/python--v1.png">
   <img align="center" alt="C" height="35" width="35" src="https://raw.githubusercontent.com/Guyutongxue/devcpp7/master/src/assets/icons/favicon.png"
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="Arduino" height="35" width="35" src="https://img.icons8.com/color/344/arduino.png">
-  <img align="center" alt="Filmora" height="50" width="50" src="https://img.icons8.com/fluency/344/filmora.png">  
+  <img align="center" alt="Filmora" height="50" width="50" src="https://img.icons8.com/fluency/344/filmora.png">
+  <img align="center" alt="" height="50" width="50" src=""> 
 </div><br>
-___________________________________________________________________________________________________________________________________________
-<br><br>
+
 <div align="center">
   <a href="https://github.com/EduardoGuedes06">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
@@ -27,6 +28,7 @@ ________________________________________________________________________________
 <img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/color/344/windows-logo.png">    
 <img align="center" alt="Nvidia" height="50" width="50" src="https://img.icons8.com/color/344/nvidia.png"
 <img align="center" alt="intel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_logo_%282006-2020%29.svg"
+<img align="center" alt="Visualg" height="50" width="50" src="https://img.icons8.com/fluency/344/visual-studio.png"> 
 </div><br><br>
 
 
