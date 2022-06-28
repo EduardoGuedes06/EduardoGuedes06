@@ -6,7 +6,7 @@
 
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/344/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-regular-tal-revivo.png">
+  <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/dusk/344/python.png">
   <img align="center" alt="C" height="35" width="60" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
   <img align="center" alt="Django" height="35" width="110" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
