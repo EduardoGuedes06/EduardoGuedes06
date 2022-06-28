@@ -16,9 +16,9 @@
 
 <div align="center"
 <h1 align="center">--------------------------------------------------------------------------------------</a> </h1> <br>
-<img align="center" alt="win" height="35" width="35" src="https://img.icons8.com/color/344/windows-logo.png">   
-<img align="center" alt="Filmora" height="35" width="35" src="https://img.icons8.com/fluency/344/filmora.png">    
-     
+<img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/color/344/windows-logo.png">   
+<img align="center" alt="Filmora" height="50" width="50" src="https://img.icons8.com/fluency/344/filmora.png">   
+<img align="center" alt="Nvidia" height="50" width="50" src="https://img.icons8.com/color/344/nvidia.png"
 </div><br>
 
 
