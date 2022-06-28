@@ -10,9 +10,17 @@
   <img align="center" alt="C" height="35" width="35" src="https://raw.githubusercontent.com/Guyutongxue/devcpp7/master/src/assets/icons/favicon.png"
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  <img align="center" alt="Win" height="35" width="35" src="https://img.icons8.com/color/344/windows-logo.png">
-  <img align="center" alt="Filmora" height="35" width="35" src="https://img.icons8.com/fluency/344/filmora.png">
+  <img align="center" alt="Arduino" height="35" width="35" src="https://img.icons8.com/color/344/arduino.png">
 </div><br>
+
+
+<div align="center"
+     
+<img align="center" alt="Filmora" height="35" width="35" src="https://img.icons8.com/fluency/344/filmora.png">   
+<img align="center" alt="Filmora" height="35" width="35" src="https://img.icons8.com/fluency/344/filmora.png">    
+     
+</div><br>
+
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
