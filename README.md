@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/eduardo-guedes-867749219/"><i>Eduardo Guedes</i></a> 😃️</h1>
-  <p align="center">Estudo Anelise e Desenvolvimento no <a href="https://bra.ifsp.edu.br/"><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻
+  <p align="center">Estudo Anelise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/"><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻
   </a><br>
 </div>
 
@@ -9,7 +9,7 @@
   Trybe
 </h1>
 
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+
 
 <div align="center">
   <a href="https://github.com/duribeiro">
