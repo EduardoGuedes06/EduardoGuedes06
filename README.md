@@ -40,8 +40,8 @@ ________________________________________________________________________________
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-   <br>
-   <![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)/>
+   <br><br>
+   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 </div>
 
 <div align="center">
