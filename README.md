@@ -10,10 +10,8 @@
   <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/ios-filled/50/F25081/python.png">
   <img align="center" alt="C" height="35" width="35" src="https://icongr.am/devicon/c-plain.svg?size=148&color=f25081">
   <img align="center" alt="dotnet" height="35" width="35" src="https://icongr.am/devicon/csharp-plain.svg?size=148&color=f25081">
-  <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/django.png">
+  <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/F25081/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/glyph-neue/64/F25081/github.png"> 
-  <img align="center" alt="Arduino" height="35" width="35" src="https://img.icons8.com/color/344/arduino.png">
-  <img align="center" alt="Filmora" height="50" width="50" src="https://img.icons8.com/fluency/344/filmora.png">
 </div><br>
 
 <div align="center">
@@ -25,7 +23,7 @@
 ___________________________________________________________________________________________________________________________________________
 
 <div align="center"><br>
-<img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/color/344/windows-logo.png">    
+<img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/F25081//344/windows-logo.png">    
 <img align="center" alt="Nvidia" height="50" width="50" src="https://img.icons8.com/color/344/nvidia.png">
 <img align="center" alt="intel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_logo_%282006-2020%29.svg">
 <img align="center" alt="Visualg" height="50" width="50" src="https://img.icons8.com/fluency/344/visual-studio.png"> 
