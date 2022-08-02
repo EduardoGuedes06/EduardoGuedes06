@@ -8,7 +8,7 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="GitBash" height="50" width="50" src="https://img.icons8.com/color/344/git.png">
   <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/color/344/python--v1.png">
-  <img align="center" alt="C" height="35" width="35" src="https://raw.githubusercontent.com/Guyutongxue/devcpp7/master/src/assets/icons/favicon.png">
+  <img align="center" alt="C" height="35" width="35" src="https://www.flaticon.com/free-icon/c-logo_74897">
   <img align="center" alt="dotnet" height="35" width="35" src="https://img.icons8.com/color/48/228BE6/c-sharp-logo.png">
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
