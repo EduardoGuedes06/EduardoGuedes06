@@ -1,12 +1,14 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/eduardo-guedes-867749219/"><i>Eduardo Guedes</i></a> 😃️</h1>
-  <p align="center">Estudo Anelise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color=black"><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻
+  <p align="center">Estudo Anelise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻
   </a><br>
 </div>
 
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="GitBash" height="35" width="35" src="https://img.icons8.com/ios-filled/50/F25081/git.png">
+  <img align="center" alt="Html" height="30" width="30" src="https://img.icons8.com/external-those-icons-fill-those-icons/f25081/external-HTML5-programming-and-development-those-icons-fill-those-icons.png">
+  <img align="center" alt="Css" height="40" width="40" src="https://img.icons8.com/ios-filled/50/f25081/css3.png">
+  <img align="center" alt="GitBash" height="35" width="35" src="https://img.icons8.com/ios-filled/50/f25081/git.png">
   <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/ios-filled/50/F25081/python.png">
   <img align="center" alt="C" height="35" width="35" src="https://icongr.am/devicon/c-plain.svg?size=148&color=f25081">
   <img align="center" alt="dotnet" height="35" width="35" src="https://icongr.am/devicon/csharp-plain.svg?size=148&color=f25081">
@@ -23,10 +25,10 @@
 ___________________________________________________________________________________________________________________________________________
 
 <div align="center"><br>
-<img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/F25081//344/windows-logo.png">    
+<img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/F25081/windows-logo.png">    
 <img align="center" alt="Nvidia" height="50" width="50" src="https://img.icons8.com/color/344/nvidia.png">
 <img align="center" alt="intel" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Intel_logo_%282006-2020%29.svg">
-<img align="center" alt="Visualg" height="50" width="50" src="https://img.icons8.com/fluency/344/visual-studio.png"> 
+<img align="center" alt="Visualg" height="50" width="50" src="https://img.icons8.com//F25081/visual-studio--v2.png"> 
 </div><br><br>
 
 
@@ -47,3 +49,4 @@ ________________________________________________________________________________
   <p>Feito com :heart:</p>
 </p>
 </div>
+
