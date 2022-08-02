@@ -6,9 +6,9 @@
 
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="GitBash" height="50" width="50" src="https://img.icons8.com/ios-filled/50/F25081/git.png">
+  <img align="center" alt="GitBash" height="35" width="35" src="https://img.icons8.com/ios-filled/50/F25081/git.png">
   <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/ios-filled/50/F25081/python.png">
-  <img align="center" alt="C" height="35" width="35" src="https:https://icongr.am/devicon/c-plain.svg?size=148&color=f250c0">
+  <img align="center" alt="C" height="35" width="35" src="https://icongr.am/devicon/c-plain.svg?size=148&color=f25081">
   <img align="center" alt="dotnet" height="35" width="35" src="https://icongr.am/devicon/csharp-plain.svg?size=148&color=f25081">
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/glyph-neue/64/F25081/github.png"> 
@@ -33,7 +33,7 @@ ________________________________________________________________________________
 
 
 <div align="center">
-  <a href="https://www.instagram.com/eduzz.mm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eduzz.mm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-guedes-867749219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:eduardoguedeslibra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
