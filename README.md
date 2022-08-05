@@ -43,7 +43,7 @@ ________________________________________________________________________________
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
    <br><br>
   
-   !<iframe src="https://giphy.com/embed/j4l29DaRrIgEIPRHlt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-supercode-j4l29DaRrIgEIPRHlt">via GIPHY</a></p>
+<img align="center" alt="C" height="35" width="35" src="https://external-preview.redd.it/DBN9-2UY0sTLzeQL2edZCfpywurUCoCOJDASqrLvCqk.gif?format=mp4&s=5d43d544f916b8b2c3300676d64464d83b8ff4cd.gif">
   
 </div>
 
