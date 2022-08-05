@@ -42,7 +42,7 @@ ________________________________________________________________________________
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
    <br><br>
-   ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+   ![Alt Text](<iframe src="https://giphy.com/embed/j4l29DaRrIgEIPRHlt" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-supercode-j4l29DaRrIgEIPRHlt">via GIPHY</a></p>)
 </div>
 
 <div align="center">
