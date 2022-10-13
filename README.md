@@ -22,7 +22,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGuedes06&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div> 
-____________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
 
 <div align="center"><br>
 <img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/F25081/windows-logo.png">    
