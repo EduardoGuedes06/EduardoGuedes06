@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/eduardo-guedes-867749219/"><i>Eduardo Guedes</i></a> 😃️</h1>
-  <p align="center">Estudo Anelise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻
+  <p align="center">Estudo Analise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻
   </a><br>
 </div>
 
