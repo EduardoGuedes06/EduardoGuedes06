@@ -15,6 +15,7 @@
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/F25081/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/glyph-neue/64/F25081/github.png"> 
   <img align="center" alt="Sql" height="35" width="35" src="https://img.icons8.com/ios-glyphs/30/F25081/sql.png">
+  <img align="center" alt="Sql" height="28" width="35" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/32/F25081/external-mongodb-a-cross-platform-document-oriented-database-program-logo-regular-tal-revivo.png"
   
 
 </div>
