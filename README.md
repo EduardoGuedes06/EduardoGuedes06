@@ -14,7 +14,7 @@
   <img align="center" alt="dotnet" height="35" width="35" src="https://icongr.am/devicon/csharp-plain.svg?size=148&color=f25081">
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/F25081/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/glyph-neue/64/F25081/github.png">
-  <img align="center" alt="github" height="35" width="35" src="https://icons8.com/icon/74402/mongodb"> 
+  <img align="center" alt="Sql" height="35" width="35" src="https://icons8.com/icon/10429/sql"> 
 </div><br>
 
 <div align="center">
