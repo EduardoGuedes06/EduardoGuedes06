@@ -14,7 +14,19 @@
   <img align="center" alt="dotnet" height="35" width="35" src="https://icongr.am/devicon/csharp-plain.svg?size=148&color=f25081">
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/F25081/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/glyph-neue/64/F25081/github.png"> 
-</div><br>
+  <img align="center" alt="Sql" height="35" width="35" src="https://img.icons8.com/ios-glyphs/30/F25081/sql.png">
+  
+
+</div>
+
+
+<br>
+
+
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/EduardoGuedes06">
