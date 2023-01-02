@@ -6,7 +6,7 @@
 
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Html" height="30" width="30" src="https://img.icons8.com/external-those-icons-fill-those-icons/f25081/external-HTML5-programming-and-development-those-icons-fill-those-icons.png">
+  <img align="center" alt="Html" height="30" width="30" src="https://img.icons8.com/ios-filled/50/f25081/html-5--v1.png">
   <img align="center" alt="Css" height="40" width="40" src="https://img.icons8.com/ios-filled/50/f25081/css3.png">
   <img align="center" alt="GitBash" height="35" width="35" src="https://img.icons8.com/ios-filled/50/f25081/git.png">
   <img align="center" alt="python" height="35" width="35"src="https://img.icons8.com/ios-filled/50/F25081/python.png">
