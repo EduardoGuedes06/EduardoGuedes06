@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/eduardo-guedes-867749219/"><i>Eduardo Guedes</i></a> 😃️</h1>
   <p align="center">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAyElEQVR4nO2TzQ3CMAyFe2QjDixAhYRdFmAU8m4wVC9UMAIDtAyAcwYVFRrJRf2hlXrzJ0VK4sR+epajyDAMwzD+QAipJ3ct94dFdfaMixCysPeMMqyuex0bjQ8J2J30We/Vm3MtOuuKTRdAePkdVm0Chv5OKhxo2uhuvQ782DxagCTYCLu7EAphxDqJLj7UgukCCIVKljcEbLEUcs9ZWyA9Aj5xxnHeFjDir/0ufySHdS0qC9ZWo1iPYRpifS3Qfw3DMAwjauENAWk3wlUPGeEAAAAASUVORK5CYII=" alt=".Net" style="vertical-align: middle; width: 40px; height: 40px;"> Developer
+    .Net Developer
   </p>
   <p align="center">Graduado em Analise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻</p>
   <br>
@@ -103,11 +103,15 @@
 </div>
 
 <div align="center">
+  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  <br><br>
-  <img align="center" alt="C" height="35" width="35" src="https://external-preview.redd.it/DBN9-2UY0sTLzeQL2edZCfpywurUCoCOJDASqrLvCqk.gif?format=mp4&s=5d43d544f916b8b2c3300676d64464d83b8ff4cd.gif">
+   <br><br>
+  
+<img align="center" alt="C" height="35" width="35" src="https://external-preview.redd.it/DBN9-2UY0sTLzeQL2edZCfpywurUCoCOJDASqrLvCqk.gif?format=mp4&s=5d43d544f916b8b2c3300676d64464d83b8ff4cd.gif">
+  
 </div>
 
 <div align="center">
   <p>Feito com :heart:</p>
+</p>
 </div>
