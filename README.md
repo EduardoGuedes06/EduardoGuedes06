@@ -1,8 +1,12 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/eduardo-guedes-867749219/"><i>Eduardo Guedes</i></a> 😃️</h1>
-  <p align="center">Estudo Analise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻
-  </a><br>
+  <p align="center">
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAyElEQVR4nO2TzQ3CMAyFe2QjDixAhYRdFmAU8m4wVC9UMAIDtAyAcwYVFRrJRf2hlXrzJ0VK4sR+epajyDAMwzD+QAipJ3ct94dFdfaMixCysPeMMqyuex0bjQ8J2J30We/Vm3MtOuuKTRdAePkdVm0Chv5OKhxo2uhuvQ782DxagCTYCLu7EAphxDqJLj7UgukCCIVKljcEbLEUcs9ZWyA9Aj5xxnHeFjDir/0ufySHdS0qC9ZWo1iPYRpifS3Qfw3DMAwjauENAWk3wlUPGeEAAAAASUVORK5CYII=" alt=".Net" style="vertical-align: middle; width: 40px; height: 40px;"> Developer
+  </p>
+  <p align="center">Graduado em Analise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻</p>
+  <br>
 </div>
+
 
 
 <div align="center" valign="top"><br>
@@ -15,33 +19,82 @@
   <img align="center" alt="Django" height="35" width="35" src="https://img.icons8.com/windows/344/F25081/django.png">
   <img align="center" alt="github" height="35" width="35" src="https://img.icons8.com/glyph-neue/64/F25081/github.png"> 
   <img align="center" alt="Sql" height="35" width="35" src="https://img.icons8.com/ios-glyphs/30/F25081/sql.png">
-  <img align="center" alt="Sql" height="28" width="35" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/32/F25081/external-mongodb-a-cross-platform-document-oriented-database-program-logo-regular-tal-revivo.png"
-  
-
+  <img align="center" alt="Sql" height="28" width="35" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/32/F25081/external-mongodb-a-cross-platform-document-oriented-database-program-logo-regular-tal-revivo.png">
 </div>
 
-
 <br>
-
-
-
-
-
-
 
 <div align="center">
   <a href="https://github.com/EduardoGuedes06">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoGuedes06&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGuedes06&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
-</div> 
-________________________________________________________________________________________________________________________________________________
+</div>
 
-<div align="center"><br>
-<img align="center" alt="win" height="50" width="50" src="https://img.icons8.com/F25081/windows-logo.png">    
-<img align="center" alt="Visualg" height="50" width="50" src="https://img.icons8.com//F25081/visual-studio--v2.png"> 
-</div><br><br>
+---
 
+### Experiência Profissional:
+
+#### Advanced Technologies (03/2023 - 11/2023)
+- **Cargo:** Desenvolvedor FullStack Júnior
+- **Responsabilidades:**
+  - Desenvolvimento e manutenção de projetos web para gestão e administração.
+  - Participação em modelagem, implementação e testes de sistemas voltados para a área de gestão e administração.
+  - Utilização de tecnologias como DotNet, MVC, SQL Server, ASPX, Azure DevOps, HTML, jQuery, JavaScript e SOAP Action.
+  - Trabalho em equipe para a entrega de software de qualidade e acompanhamento das tendências do mercado.
+
+#### 4UCode (07/2022 - 03/2023)
+- **Área de atuação:** Backend
+- **Responsabilidades:**
+  - Treinamento intensivo diário na formação .NET.
+  - Acesso a cursos teóricos e práticos sobre diversas vertentes da linguagem .NET/C#.
+  - Desenvolvimento e modelamento de APIs e Microsserviços utilizando orientação DDD, modelagem estratégica e tática, testes técnicos, criação de projetos MVC e Deployng.
+  - Conexão com bancos de dados (SQL Server, MySql, MongoDB).
+
+#### Secretaria da Saúde (01/2022 - 07/2022)
+- **Área de atuação:** Backend
+- **Responsabilidades:**
+  - Treinamento intensivo diário na formação Python, com foco especial em frameworks como Django.
+  - Acesso a cursos teóricos e práticos abrangendo diversas vertentes da linguagem Python.
+  - Exploração e aprimoramento de habilidades em gerenciamento de bancos de dados, incluindo MySQL e SQL Server.
+
+---
+
+### HARD SKILLS:
+
+- POO
+- Arquitetura DDD
+- Arquitetura REST
+- Arquitetura MVC
+- C#
+- .NET Core
+- Dapper
+- Entity Framework
+- Identity Framework
+- Aspx
+- PxUnit
+- MS SQL Server
+- MySql
+- Python
+- Django
+- HTML, CSS
+- JavaScript
+- Java
+- Azure DevOps
+- Soap Action
+
+### SOFT SKILLS:
+
+- Comunicação
+- Gestão do tempo
+- Solução de problemas
+- Flexibilidade e adaptabilidade
+- Lidar com pressão
+- Trabalho em equipe
+- Autoconfiança
+- Atitude positiva
+
+---
 
 <div align="center">
   <a href="https://www.instagram.com/eduzz.mm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
@@ -50,16 +103,11 @@ ________________________________________________________________________________
 </div>
 
 <div align="center">
-  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-   <br><br>
-  
-<img align="center" alt="C" height="35" width="35" src="https://external-preview.redd.it/DBN9-2UY0sTLzeQL2edZCfpywurUCoCOJDASqrLvCqk.gif?format=mp4&s=5d43d544f916b8b2c3300676d64464d83b8ff4cd.gif">
-  
+  <br><br>
+  <img align="center" alt="C" height="35" width="35" src="https://external-preview.redd.it/DBN9-2UY0sTLzeQL2edZCfpywurUCoCOJDASqrLvCqk.gif?format=mp4&s=5d43d544f916b8b2c3300676d64464d83b8ff4cd.gif">
 </div>
 
 <div align="center">
   <p>Feito com :heart:</p>
-</p>
 </div>
-
