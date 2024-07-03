@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center"><img src="https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square"</h1>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/eduardo-guedes-867749219/"><i>Eduardo Guedes</i></a> 😃️</h1>
+  <h3 align="center"><img src="https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square"></h3>
   <p align="center">
     .Net Developer
   </p>
