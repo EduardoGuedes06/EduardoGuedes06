@@ -5,7 +5,7 @@
   </p>
   <p align="center">Graduado em Analise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻</p>
   <br>
-    ![](https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square)
+    <img src="https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square">
 </div>
 
 
