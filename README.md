@@ -5,7 +5,7 @@
   </p>
   <p align="center">Graduado em Analise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻</p>
   <br>
-    <img src="https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square">
+    <img align="center" src="https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square">
 </div>
 
 
@@ -35,6 +35,13 @@
 ---
 
 ### Experiência Profissional:
+
+#### Movere Software (03/2024 - Atual)
+- **Cargo:** Desenvolvedor Júnior
+- **Responsabilidades:**
+  - Desenvolvimento e manutenção de projetos ERP Ultilizando Metodologia Agil Com Devops.
+  - Participação em modelagem de Rotinas, implementação de testes Unitarios, Deployng Ultilizando Azure e Versionamento de versões.
+  - Utilização de tecnologias como DotNet, TypeScript, VB, Node, Vuejs, Angular, MVC, SQL Server, ASPX, Azure DevOps, HTML, jQuery, JavaScript e SOAP Action.
 
 #### Advanced Technologies (03/2023 - 11/2023)
 - **Cargo:** Desenvolvedor FullStack Júnior
