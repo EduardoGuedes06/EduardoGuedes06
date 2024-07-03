@@ -1,11 +1,11 @@
 <div>
+  <h1 align="center"><img src="https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square"</h1>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/eduardo-guedes-867749219/"><i>Eduardo Guedes</i></a> 😃️</h1>
   <p align="center">
     .Net Developer
   </p>
   <p align="center">Graduado em Analise e Desenvolvimento de Sistemas no <a href="https://bra.ifsp.edu.br/=Color="><i>❤️Instituto Federal de Bragança Paulista</i></a> 💻</p>
   <br>
-    <img src="https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square" style="display: block; margin: 0 auto;">
 </div>
 
 
