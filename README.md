@@ -1,6 +1,6 @@
 <div align="center">
   <h1><font color="#f25081">Eduardo Guedes</font></h1>
-  <h3>Arquiteto de Soluções & Desenvolvedor .NET Sênior</h3>
+  <h3>Arquiteto de Soluções & Desenvolvedor .NET</h3>
   <p>Apaixonado por desenhar, construir e otimizar sistemas distribuídos de alta performance com foco em Clean Architecture, DDD e Microsserviços.</p>
   <p><img src="https://komarev.com/ghpvc/?username=EduardoGuedes06&style=flat-square&color=f25081" alt="Profile views"/></p>
 </div>
