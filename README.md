@@ -235,7 +235,12 @@ Acredito que um software de qualidade vai além do código que funciona. Ele pre
 </p>
 
 <div align="center">
-  <img src="https://github.com/EduardoGuedes06/EduardoGuedes06/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+   <br><br>
+  
+<img align="center" alt="C" height="35" width="35" src="https://external-preview.redd.it/DBN9-2UY0sTLzeQL2edZCfpywurUCoCOJDASqrLvCqk.gif?format=mp4&s=5d43d544f916b8b2c3300676d64464d83b8ff4cd.gif">
+  
 </div>
 
 <p align="center">
